@@ -1,0 +1,16 @@
+.img{
+    max-width: 100%; height: auto
+}
+
+.picturesCollection{
+    display: flex;
+    justify-content: center;
+    background-color: #ffffff !important;
+    -ms-overflow-style: none;
+    outline: none;
+    margin-top: 100px;
+}
+
+.picturesCollection ::-webkit-scrollbar{
+    display: none;
+}

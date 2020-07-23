@@ -1,0 +1,7 @@
+.appBar {
+    background-color: #191b1b !important;
+    box-shadow: none !important;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    box-shadow: 0 0 5px 2px red;
+}
